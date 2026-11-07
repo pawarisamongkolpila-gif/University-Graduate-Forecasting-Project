@@ -1,4 +1,4 @@
-University Graduate Forecasting Project
+University Graduate Forecasting Project (สมาชิกจำนวน 6 คน)
 โปรเจกต์นี้ลองสร้างแบบจำลองที่ใช้ปัจจัย จำนวนผู้สำเร็จการศึกษาในแต่ละปี สาขาวิชา ประเภทสถาบัน และระดับการศึกษา ทำนายจำนวนผู้สำเร็จการศึกษา แล้วเปรียบเทียบกันว่าเทคนิคไหนทำได้ดีที่สุด 
 สร้างแบบจำลอง 3 แบบใน RapidMiner ได้แก่ Decision Tree, Linear Regression และ Random Forest
 
